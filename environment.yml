@@ -1,0 +1,7 @@
+name: weather_forecast
+channels:
+  - default
+dependencies:
+  - python=3.6.9
+  - pip:
+    - -r file:requirements.txt
