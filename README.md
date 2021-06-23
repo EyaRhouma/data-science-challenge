@@ -44,4 +44,4 @@ Next Steps:
 * [2] Use TimeSeries cross-validation to split the data: Forward Chaining, K-Fold or Group K-Fold
 
 * [3] We only used one simple NN architecture, This can be improved by making the NN more complexe (Adding more depth and width)
-or by adding
+or by experimenting with XgBoost, RNN
