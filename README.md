@@ -1,6 +1,9 @@
 Data Science challenge
 ================================================================================
-This project aims to solve data science coding challenge for weather forcasting
+This project aims to solve data science coding challenge for weather forcasting with multiple stations.
+The project contains two major parts:
+- Data clearning and Analysis
+- Training and prediction using a machine learning technique
 
 
 
@@ -33,4 +36,7 @@ Architecture:
 
 Useful links:
 --------------------------------------------------------------------------------
-<!-- ![architecture](./architecture.png) -->
+* [1] [BigQuery](https://cloud.google.com/bigquery/docs/visualize-jupyter)
+
+* [2] [Feature engineering for machine Learning](https://towardsdatasience.com/feature-engineering-for-machine-learning-3a5e293a5114#199b)
+
